@@ -1,0 +1,16 @@
+@import url("//fonts.googleapis.com/css?family=Google+Sans:400,500,600,700");
+@import url("https://fonts.googleapis.com/icon?family=Material+Icons");
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Google Sans", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  letter-spacing: 0.3px;
+  -webkit-tap-highlight-color: transparent;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizelegibility;
+}
